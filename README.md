@@ -5,3 +5,4 @@ Scenarious:
 
 <p>In the project I used Page Object Model.</p>
 <p> All scenarious are in folder: cypress/integration/Test_scenarios</p>
+<p> Tests run on the version https://demo.saleor.io/ -04.07.2021 02:00 pm
